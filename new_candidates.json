@@ -1,0 +1,50 @@
+[
+  {
+    "User": {
+      "first_name": "Johnny",
+      "last_name": "Hermann"
+    },
+    "Tag": [
+      "Python",
+      ".NET",
+      "MySQL",
+      "Java"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Noemi",
+      "last_name": "Will"
+    },
+    "Tag": [
+      "Java",
+      "PHP",
+      "HTML / CSS",
+      "Python"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Marlen",
+      "last_name": "Considine"
+    },
+    "Tag": [
+      "Python",
+      "JavaScript",
+      "PHP",
+      "Android"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Kaycee",
+      "last_name": "Lemke"
+    },
+    "Tag": [
+      "Python",
+      "Java",
+      "SQL",
+      "Mongo"
+    ]
+  }
+]

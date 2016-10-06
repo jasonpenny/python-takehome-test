@@ -1,0 +1,54 @@
+[
+  {
+    "User": {
+      "first_name": "Asha",
+      "last_name": "Kuvalis",
+      "interview_count":"18"
+    },
+    "Tag": [
+      "Ruby",
+      "Objective-C",
+      "JavaScript",
+      "HTML / CSS"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Jana",
+      "last_name": "Wunsch",
+      "interview_count":"19"
+    },
+    "Tag": [
+      "Python",
+      "JavaScript",
+      "React.js",
+      "Scala"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Tevin",
+      "last_name": "Haag",
+      "interview_count":"22"
+    },
+    "Tag": [
+      "PHP",
+      "Python",
+      "HTML / CSS",
+      "MySQL"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Sedrick",
+      "last_name": "Kozey",
+      "interview_count":"14"
+    },
+    "Tag": [
+      "R",
+      "Python",
+      "SQL",
+      "Machine Learning"
+    ]
+  }
+]

@@ -1,0 +1,54 @@
+[
+  {
+    "User": {
+      "first_name": "Alejandra",
+      "last_name": "Durgan",
+      "interview_count":"21"
+    },
+    "Tag": [
+      "Python",
+      "JavaScript",
+      "Go",
+      "Android"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Mae",
+      "last_name": "Johnson",
+      "interview_count":"19"
+    },
+    "Tag": [
+      "Java",
+      "PHP",
+      "HTML / CSS",
+      "Ruby"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Delmer",
+      "last_name": "Cartwright",
+      "interview_count":"19"
+    },
+    "Tag": [
+      "Python",
+      "Perl",
+      "PHP",
+      "MATLAB"
+    ]
+  },
+  {
+    "User": {
+      "first_name": "Clarissa",
+      "last_name": "Anderson",
+      "interview_count":"24"
+    },
+    "Tag": [
+      "Java",
+      "JavaScript",
+      "Perl",
+      "Python"
+    ]
+  }
+]
